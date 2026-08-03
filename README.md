@@ -64,7 +64,10 @@
 
 ---
 
-<!-- I will add (Contribution Snake) down here in the next steps! -->
-
+<!-- Snake start  (Contribution Snake) down here in the next steps! -->
+<div align="center">
+  <h2>🐍 My Coding Activity</h2>
+  <img src="https://raw.githubusercontent.com/SATYAJEETROUT1/SATYAJEETROUT1/main/dist/github-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
 
