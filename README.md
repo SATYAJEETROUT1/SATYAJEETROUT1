@@ -89,8 +89,4 @@
   <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
 
 </div>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
-
-</div>
 
