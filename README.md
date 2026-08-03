@@ -75,14 +75,16 @@
 <div align="center">
 
   <!-- Connect Section -->
+  <div align="center">
+
+  <!-- Connect Section -->
   <h3>🤝 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/satyajeet-rout-186ab622a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <!-- GitHub Stats Card -->
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEETROUT1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="mailto:satyajeetrout20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 
   <!-- Profile Visitors -->
   <br><br>
