@@ -1,0 +1,47 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; } /* Matches GitHub Dark Mode */
+      .title { font: bold 36px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; animation: fadeIn 1.5s ease-in-out forwards; opacity: 0; }
+      .subtitle { font: 22px 'Segoe UI', Ubuntu, sans-serif; fill: #58A6FF; animation: slideUp 1.5s ease-in-out 0.5s forwards; opacity: 0; }
+      .details { font: 16px 'Segoe UI', Ubuntu, sans-serif; fill: #8B949E; animation: slideUp 1.5s ease-in-out 0.8s forwards; opacity: 0; }
+      
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes slideUp {
+        0% { opacity: 0; transform: translateY(15px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+    
+    <!-- Circular clip path for your profile photo -->
+    <clipPath id="photo-clip">
+      <circle cx="680" cy="125" r="75" />
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg" rx="15"/>
+
+  <!-- Animated Background Orbs -->
+  <circle cx="700" cy="125" r="90" fill="#58A6FF" opacity="0.1">
+    <animate attributeName="r" values="90;100;90" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="50" cy="200" r="60" fill="#2EA043" opacity="0.05">
+     <animate attributeName="cy" values="200;180;200" dur="6s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- SR Logo Placeholder (Top Left) -->
+  <!-- Note: Replace the href with My raw GitHub image link -->
+  <image href="https://raw.githubusercontent.com/SATYAJEETROUT1/SATYAJEETROUT1/main/satyajeet.logo.png" x="40" y="30" height="40" width="40" />
+  <!-- Main Text -->
+  <text x="40" y="115" class="title">Hello 👋 I'm Satyajeet Rout</text>
+  <text x="40" y="155" class="subtitle">Software Developer</text>
+  <text x="40" y="190" class="details">Master of Computer Applications (MCA) • New Delhi, India</text>
+
+  <!-- Profile Photo Placeholder -->
+  <!-- Note: Replace the href with my  raw GitHub image link -->
+  <image href="https://raw.githubusercontent.com/SATYAJEETROUT1/SATYAJEETROUT1/main/Satyajeet_Developer.jpeg" x="605" y="50" height="150" width="150" clip-path="url(#photo-clip)" />
+</svg>
