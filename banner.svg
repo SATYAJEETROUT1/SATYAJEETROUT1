@@ -35,7 +35,7 @@
 
   <!-- SR Logo Placeholder (Top Left) -->
   <!-- Note: Replace the href with My raw GitHub image link -->
-  <image href="https://raw.githubusercontent.com/SATYAJEETROUT1/SATYAJEETROUT1/main/satyajeet.logo.png" x="40" y="30" height="40" width="40" />
+  <image href="https://github.com/SATYAJEETROUT1/SATYAJEETROUT1/blob/main/Satyajeet_Developer.jpeg" x="40" y="30" height="40" width="40" />
   <!-- Main Text -->
   <text x="40" y="115" class="title">Hello 👋 I'm Satyajeet Rout</text>
   <text x="40" y="155" class="subtitle">Software Developer</text>
