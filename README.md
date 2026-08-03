@@ -80,11 +80,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <!-- GitHub Trophies -->
+  <!-- GitHub Streak Stats -->
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SATYAJEETROUT1&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAJEETROUT1&theme=tokyonight&background=0d1117&border=30363d" alt="GitHub Streak" />
 
   <!-- Profile Visitors -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
+
+</div>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
 
