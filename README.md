@@ -65,3 +65,17 @@
 ---
 
 <!-- I will add Phase 3 (GitHub Stats) and Phase 4 (Contribution Snake) down here in the next steps! -->
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEETROUT1&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAJEETROUT1&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<!-- I will add Phase 4 (Contribution Snake) down here next! -->
