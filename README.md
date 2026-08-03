@@ -71,3 +71,22 @@
 </div>
 
 
+<!-- Contact start here!-->
+<div align="center">
+
+  <!-- Connect Section -->
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/satyajeet-rout-186ab622a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <!-- GitHub Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=SATYAJEETROUT1&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
+
+  <!-- Profile Visitors -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
+
+</div>
+
