@@ -91,4 +91,9 @@
   <img src="https://komarev.com/ghpvc/?username=SATYAJEETROUT1&color=blue&style=flat-square" alt="Visitor Count" />
 
 </div>
+<div align="center">
+  <h3>⚡ Tech Stack & Tools</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?icons=py,java,js,ts,react,nodejs,mysql,mongodb,git,vscode,postman,figma,androidstudio&theme=dark" alt="Satyajeet's Tech Stack" />
+</div>
 
