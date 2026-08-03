@@ -16,7 +16,7 @@
       }
     </style>
     
-    <!-- Circular clip path for your profile photo -->
+    <!-- Circular clip path for My profile photo -->
     <clipPath id="photo-clip">
       <circle cx="680" cy="125" r="75" />
     </clipPath>
