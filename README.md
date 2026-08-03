@@ -66,7 +66,7 @@
 
 <!-- Snake start  (Contribution Snake) down here in the next steps! -->
 <div align="center">
-  <h2>🐍 My Coding Activity</h2>
+  <h2>🐍 My Activity</h2>
   <img src="https://raw.githubusercontent.com/SATYAJEETROUT1/SATYAJEETROUT1/main/dist/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
@@ -80,9 +80,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Stats Card -->
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAJEETROUT1&theme=tokyonight&background=0d1117&border=30363d" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEETROUT1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <!-- Profile Visitors -->
   <br><br>
